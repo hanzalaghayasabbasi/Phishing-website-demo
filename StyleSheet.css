@@ -1,0 +1,25 @@
+﻿body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    height: 100vh;
+}
+
+.card {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.btn-link {
+    margin-top: 10px;
+    text-align: center;
+}
